@@ -1,0 +1,2 @@
+Prefix plugins/GPUTSVMult/example
+Plugin GPUTSVMult inputfile parameters.txt outputfile solution.tsv

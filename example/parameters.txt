@@ -1,0 +1,5 @@
+matrix1	input.tsv
+matrix2	input2.tsv
+M	5
+N	5
+P	5
